@@ -3,7 +3,7 @@
 <h3 align="center">Motivated and enthusiastic student committed to learning and developing new skills in Computer Science.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davidc2909&label=Profile%20views&color=0e75b6&style=flat" alt="davidc2909" /> </p>
+
 
 - 🔭 I’m currently working on **Full Stack App**
 
